@@ -1,6 +1,6 @@
 # Homework_CodeRefractor
 
-Create a proper consise title
+Created a proper consise title
 
 Generally tried to clean code to be simple and readable with proper html structure that was logical
 
