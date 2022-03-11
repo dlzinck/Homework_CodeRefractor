@@ -1,5 +1,4 @@
 # Homework_CodeRefractor
-
 Created a proper consise title
 
 Generally tried to clean code to be simple and readable with proper html structure that was logical
@@ -15,3 +14,14 @@ Shortened and cleaned up all CSS coding in style.css to be more effient and left
 Redefined some classes and id's to make css changes take effect
 
 Checked inspect layout on internet and it is now better to read, follow, and understand
+
+
+# What the application does
+This is a web application for a company that offers services in Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
+
+
+# Screenshot and URL
+
+![This webpage has a title, header, nav bar, images, and sections to show off services offered.](./assets/images/webpage.png)
+
+https://dlzinck.github.io/Homework_CodeRefractor/
